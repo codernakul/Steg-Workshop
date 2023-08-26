@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Aug 26 04:53:54 2023
+Invocation: foremost sky_diving.jpg 
+Output directory: /home/nakul/Downloads/Workshops/Workshop-03-Hiding-Data-in-Files/Workshop-03-Task/deeper__/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: sky_diving.jpg
+Start: Sat Aug 26 04:53:54 2023
+Length: 1 MB (1692787 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	       9 KB 	          0 	 
+1:	00000019.zip 	       1 MB 	       9806 	 
+Finish: Sat Aug 26 04:53:54 2023
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Aug 26 04:53:54 2023
